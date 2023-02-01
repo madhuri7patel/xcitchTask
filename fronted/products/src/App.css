@@ -33,7 +33,7 @@ body {
 	justify-content: space-between;
 }
 .nav__left img {
-	width: 100px;
+	width: 50px;
 }
 .header {
 	background: url('./images/banner.webp');
